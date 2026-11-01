@@ -1,0 +1,17 @@
+{
+  "id": "amiya-emotion",
+  "name": "朝陇山兔表情包",
+  "version": "1.0.0",
+  "description": "原始朝陇山兔图片合集，保留单一分类，尚未按情绪细分。",
+  "categories": {
+    "朝陇山兔": {
+      "description": "朝陇山兔表情合集，包含多种情绪；建议细分情绪或完成语义化后按语境选图。"
+    }
+  },
+  "source": {
+    "type": "github",
+    "repo": "luobo98/amiya-emotion",
+    "ref": "main",
+    "subpath": "."
+  }
+}
